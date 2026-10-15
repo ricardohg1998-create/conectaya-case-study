@@ -4,11 +4,13 @@ I designed and developed a platform that connects public lead capture, a service
 
 **My role:** application architecture, fullstack development and integrations. **Stack:** TypeScript, Next.js, React, Prisma, MySQL, NextAuth.js, SIP.js/WebRTC and Asterisk.
 
+By the end of my time at ConectaYa in **August 2026**, the platform held **100,000+ leads** and supported **40+ simultaneously active call centre agents and collaborators**. These figures describe the scale of the platform during my work there.
+
 [Product case study and screenshots](https://www.ricardohuertas.es/trabajos/conectaya/) · [About my work](https://www.ricardohuertas.es/)
 
 ![Sales workspace with progressive dialler and demonstration contact](assets/sales-workspace.webp)
 
-*Product interface with a demonstration contact. The image illustrates the workflow; displayed counters are not a benchmark or a current usage report.*
+*Sales workspace with demonstration data.*
 
 ## The problem
 
@@ -42,16 +44,8 @@ flowchart TD
 
 **Connect the collaborator portal to the same business records.** Lead submission, documents, signatures and commission tracking need consistent identifiers and permissions across roles.
 
-## Verification and boundaries
+## Verification
 
-The private repository includes automated tests for application behaviour and permissions. This public case documents the design and shows selected product screens; it does not expose the operational code or execute those private tests.
+The private repository includes automated tests for application behaviour and permissions.
 
-My work on the project ended in August 2026. This is a record of the system I built, not a statement about its current maintenance, availability or commercial performance. Usage figures from different dates are deliberately omitted here.
-
-I integrated existing frameworks and services; I did not create Next.js, Prisma, Asterisk or the external messaging platforms. The operational repositories, customer records and credentials remain private.
-
-## Read this case
-
-This repository contains documentation and a selected screenshot only. There is no application to install.
-
-The screenshot and case text are portfolio material. Third-party names and product marks belong to their respective owners; this repository does not grant a licence to the underlying application.
+Built during my work at ConectaYa, ending in August 2026. This repository contains the technical case study and a screenshot with demonstration data; application source is private.

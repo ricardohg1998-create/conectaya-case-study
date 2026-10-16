@@ -4,7 +4,7 @@ I designed and developed a platform that connects public lead capture, a service
 
 **My role:** application architecture, fullstack development and integrations. **Stack:** TypeScript, Next.js, React, Prisma, MySQL, NextAuth.js, SIP.js/WebRTC and Asterisk.
 
-By the end of my time at ConectaYa in **August 2026**, the platform held **100,000+ leads** and supported **40+ simultaneously active call centre agents and collaborators**. These figures describe the scale of the platform during my work there.
+By the end of my time at ConectaYa in **August 2026**, the platform held **100,000+ leads** and supported **40+ active call centre agents and collaborators**. These figures describe the scale of the platform during my work there.
 
 [Product case study and screenshots](https://www.ricardohuertas.es/trabajos/conectaya/) · [About my work](https://www.ricardohuertas.es/)
 

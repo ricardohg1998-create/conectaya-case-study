@@ -2,7 +2,7 @@
 
 I designed and developed a platform that connects public lead capture, a service catalogue, sales operations, collaborators and browser-based telephony. It was deployed during my work at ConectaYa.
 
-**My role:** application architecture, fullstack development and integrations. **Stack:** TypeScript, Next.js, React, Prisma, MySQL, NextAuth.js, SIP.js/WebRTC and Asterisk.
+**My role:** application architecture, fullstack development and integrations. I also automated operational workflows with n8n, Make and Zapier and directly coordinated a team of 3-5 people through rollout and adoption. **Stack:** TypeScript, Next.js, React, Prisma, MySQL, NextAuth.js, SIP.js/WebRTC and Asterisk.
 
 By the end of my time at ConectaYa in **August 2026**, the platform held **100,000+ leads** and supported **40+ active call centre agents and collaborators**. These figures describe the scale of the platform during my work there.
 
